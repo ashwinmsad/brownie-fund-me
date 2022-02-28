@@ -1,0 +1,7 @@
+{
+    "solidity.compileUsingLocalVersion": "c:\\Users\\Ashwin\\Documents\\brownie-fund-me\\soljson-v0.6.6+commit.6c089d02.js",
+    "solidity.compileUsingRemoteVersion": "v0.6.6+commit.6c089d02",
+    "solidity.remappings":[
+        "@chainlink=/Users/Ashwin/.brownie/packages/smartcontractkit/chainlink-brownie-contracts@1.1.1"
+    ]
+}

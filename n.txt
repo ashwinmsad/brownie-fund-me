@@ -1,0 +1,9 @@
+brownie networks add Ethereum ganache-local host=http://127.0.0.1:7545 chainid=5777
+
+
+
+url taken from alchemy.io - create app
+brownie networks add development mainnet-fork-dev cmd=ganache-cli host=http://127.0.0.1:7545 fork='https://eth-mainnet.alchemyapi.io/v2/LfYTBAzccLtPiNpvJh1ZQDBBeGcgpPY-' accounts=10 mnemonic=brownie port=8545
+
+
+etherscan.io for seeing smart contracts
